@@ -5,7 +5,7 @@ Che cosa è un Mbot?
 Mbot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot!
 
 COME COMPOSTO?
-mBot è un piccolo robot costituito da due motori DC, un sensore di linea e un sensore a ultrasuoni per il rilevamento di ostacoli. Tutti i sensori e gli attuatori sono controllati da una unità centrale chiamata scheda mCore, derivata dalla famosa scheda hobbistica Arduino.
+mBot è un piccolo robot costituito da due motori DC, un sensore di linea e un sensore a ultrasuoni per il rilevamento di ostacoli. Tutti i sensori e gli attuatori sono controllati da una unità centrale chiamata scheda mCore, derivata dalla famosa scheda hobbistica Arduino. è prodotto non adatto ai bambini inferiori di 3 anni perchè può contenere piccoli pezzi che potrebbere ingerire
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vr-VC8Su1UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Markdown
