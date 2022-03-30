@@ -7,6 +7,7 @@ Mbot è un robot in alluminio da assemblare, economico e versatile. Può rilevar
 COME COMPOSTO?
 mBot è un piccolo robot composto da due motori a corrente continua, un sensore a filo e un sensore a ultrasuoni per il rilevamento degli ostacoli. Tutti i sensori e gli attuatori sono controllati da un'unità centrale chiamata scheda mCore, che deriva dalla nota scheda hobby Arduino. Non è adatto a bambini di età inferiore a 3 anni in quanto può contenere piccoli pezzi che possono essere ingeriti.
 ![image](https://user-images.githubusercontent.com/102225228/160807022-d2d80243-dc4b-4ac9-9993-1491436878bb.png)
+
 ULTRASUONI!!
 Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza
 ![image](https://user-images.githubusercontent.com/102225228/160808366-ecb01783-d8d5-47be-a2fe-6cd9e0cb5071.png)
