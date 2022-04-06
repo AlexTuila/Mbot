@@ -1,6 +1,4 @@
-<b>
-  <span style="color:red"> Pasquetta</span>
-  <b>
+
 ## *Mbot*
 Che cosa è un Mbot?
 
