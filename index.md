@@ -21,7 +21,9 @@ mCore è una scheda di controllo principale facile da usare appositamente proget
 ![image](https://user-images.githubusercontent.com/102225228/160809503-b69ec555-6f94-4275-a18d-8dab5bb0e8f6.png)
 
 
-## ULTRASUONI!!
+<b>
+  <span style="color:violet"> ## ULTARSUONI!! </span>
+  <b>
 
 Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza
 ![image](https://user-images.githubusercontent.com/102225228/160808366-ecb01783-d8d5-47be-a2fe-6cd9e0cb5071.png)
