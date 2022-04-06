@@ -33,14 +33,13 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
 I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono quattro codici (da 1 a 4) restituiti dal sensore inseguimento di linea.
    
     
-<b>
-  <span style="color:blue">  BLUETOOTH </span>
-  <b>
 
 
 ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
 
-
+b>
+  <span style="color:blue">  BLUETOOTH </span>
+  <b>
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EKV9ozuJ7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
