@@ -29,6 +29,7 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
 ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
 
 
+
 https://youtube.com/shorts/bba2clZQ2zA?feature=share
 
 
