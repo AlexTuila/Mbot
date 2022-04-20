@@ -49,7 +49,7 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
   
     
 ## Programmazione
-  ![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
+  [![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
   
     
     
