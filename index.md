@@ -12,7 +12,9 @@ mBot è un piccolo robot composto da due motori a corrente continua, un sensore 
 
 
 
-## Scheda mcore
+<b>
+  <span style="color:light_blue">  Scheda mCore </span>
+  <b>
 
 mCore è una scheda di controllo principale facile da usare appositamente progettata per mBot. Basato su Arduino Uno, mCore integra vari sensori di bordo, come cicalino, sensore di luce, LED RGB, ecc., che fornisce un modo più semplice per iniziare a imparare l'elettronica.
 
