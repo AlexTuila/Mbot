@@ -44,9 +44,9 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
   <span style="color:blue">  BLUETOOTH </span>
   <b>
     La scheda bluetooth serve per comandare l'Mbot senza fili, tramite questa è possibile comandarlo pure con il proprio telefono
-    
-    ![llllll](https://user-images.githubusercontent.com/102225018/164213048-6e674f42-fc22-4a07-9734-0674797b4106.jpg)
-     
+  ![llllll](https://user-images.githubusercontent.com/102225018/164216740-18fee101-c66e-4489-8329-dc1caf9983fc.jpg)
+  
+  
     
 ## Programmazione
   ![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
