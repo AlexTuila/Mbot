@@ -1,5 +1,5 @@
 ## *Mbot*
-"C:\Users\Bezarau Emmanuele\Desktop\immagine.webp" Che cosa è un Mbot?
+Che cosa è un Mbot?
 
 
 Mbot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot!
