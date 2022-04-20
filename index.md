@@ -49,6 +49,13 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
 
     
 
+    
+    
+    
+    
+    
+    
+    
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EKV9ozuJ7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
