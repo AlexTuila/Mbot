@@ -43,6 +43,9 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
 <b>
   <span style="color:blue">  BLUETOOTH </span>
   <b>
+    ![image]![llllll](https://user-images.githubusercontent.com/102225018/164213048-6e674f42-fc22-4a07-9734-0674797b4106.jpg)
+
+    
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EKV9ozuJ7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
