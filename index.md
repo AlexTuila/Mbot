@@ -13,7 +13,7 @@ mBot è un piccolo robot composto da due motori a corrente continua, un sensore 
 
 
 <b>
-  <span style="color:light_blue">  Scheda mCore </span>
+  <span style="color:yellow">  Scheda mCore </span>
   <b>
 
 mCore è una scheda di controllo principale facile da usare appositamente progettata per mBot. Basato su Arduino Uno, mCore integra vari sensori di bordo, come cicalino, sensore di luce, LED RGB, ecc., che fornisce un modo più semplice per iniziare a imparare l'elettronica.
@@ -28,7 +28,9 @@ mCore è una scheda di controllo principale facile da usare appositamente proget
 Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza
 ![image](https://user-images.githubusercontent.com/102225228/160808366-ecb01783-d8d5-47be-a2fe-6cd9e0cb5071.png)
 
-## Sensore di linea
+<b>
+  <span style="color:red">  Sensore di linea </span>
+  <b>
     
  Per seguire un percorso, inteso come linea nera su sfondo bianco, mBot usa i due sensori a infrarossi posizionati frontalmente e rivolti verso il basso. Quando la radiazione infrarossa, emessa dal trasmettitore, arriva su un fondo bianco, viene riflessa e il sensore è in grado di rilevarla. Se invece colpisce la linea nera, viene assorbita e il sensore non rileva nulla.
 
