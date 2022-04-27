@@ -44,8 +44,7 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
   <span style="color:blue">  BLUETOOTH </span>
   <b>
     
-      ![llllll](https://user-images.githubusercontent.com/102225018/164216740-18fee101-c66e-4489-8329-dc1caf9983fc.jpg)
-  
+     
   
     
 ## Programmazione
