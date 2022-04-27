@@ -54,6 +54,8 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
     
 ## Programmazione
   [![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
+   
+   Mbot Può essere programmato con mBlock, quindi come nell'immagine con i blocchi. Ciò lo rende molto intuitivo per tutti. Imfatti con solo dieci blocchi si riesce a muovere l'Mbot in tutte le direzioni e anche fermarlo! 
   
     
     
