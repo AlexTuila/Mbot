@@ -63,7 +63,8 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EKV9ozuJ7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-  [![Immagine programmazione base](file:///C:/Users/Bezarau%20Emmanuele/Desktop/programmazione%202.png)
+ 
+![programmazione 2](https://user-images.githubusercontent.com/102225018/165496878-377a5e34-8f1b-4bbd-b249-4f5f2857cfa1.png)
 
     
 
