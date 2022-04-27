@@ -3,6 +3,7 @@ Che cosa è un Mbot?
 
 
 Mbot è un robot in alluminio da assemblare, economico e versatile. Può rilevare ostacoli, seguire una linea, emettere suoni e segnali luminosi, essere telecomandato, comunicare via infrarossi con un altro robot!
+Tramite la scheda bluetooth possiamo comandare l'Mbot senza fili, attraverso questa è possibile comandarlo pure con il proprio telefono
 
 ## *COME COMPOSTO?*
 
@@ -40,10 +41,6 @@ I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono
 
 ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
 
-<b>
-  <span style="color:blue">  BLUETOOTH </span>
-  <b>
-    La scheda bluetooth serve per comandare l'Mbot senza fili, tramite questa è possibile comandarlo pure con il proprio telefono
     
      
   
