@@ -7,7 +7,7 @@ Tramite la scheda bluetooth possiamo comandare l'Mbot senza fili, attraverso que
 
 ## *COME COMPOSTO?*
 
-mBot è un piccolo robot composto da due motori a corrente continua, un sensore a filo e un sensore a ultrasuoni per il rilevamento degli ostacoli. Tutti i sensori e gli attuatori sono controllati da un'unità centrale chiamata scheda mCore, che deriva dalla nota scheda hobby Arduino. Non è adatto a bambini di età inferiore a 3 anni in quanto può contenere piccoli pezzi che possono essere ingeriti.
+mBot è un piccolo robot composto da due motori a corrente continua, un sensore a filo e un sensore a ultrasuoni per il rilevamento degli ostacoli. Tutti i sensori e gli attuatori sono controllati da un'unità centrale chiamata scheda mCore, che deriva dalla nota scheda hobby Arduino. É composto da 4 porte ed è in grado di connettersia più di 100 tipi di moduli elettrici con diversi pacchetti integrativi, è un software basato su scracht versione offline dotato di diverse estensioni. Non è adatto a bambini di età inferiore a 3 anni in quanto può contenere piccoli pezzi che possono essere ingeriti.
 ![spiega mbot](https://user-images.githubusercontent.com/102225228/161949140-18825c2a-165e-4cce-8eeb-551fc8ecc8f1.jpg)
 
 
