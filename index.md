@@ -38,10 +38,10 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
 <b>
   <span style="color:red">  Sensore di linea </span>
   <b>
-    
- Per seguire un percorso, inteso come linea nera su sfondo bianco, mBot usa i due sensori a infrarossi posizionati frontalmente e rivolti verso il basso. Quando la radiazione infrarossa, emessa dal trasmettitore, arriva su un fondo bianco, viene riflessa e il sensore è in grado di rilevarla. Se invece colpisce la linea nera, viene assorbita e il sensore non rileva nulla.
-
-I sensori sono due e le possibili combinazioni sono quattro, a cui corrispondono quattro codici (da 1 a 4) restituiti dal sensore inseguimento di linea.
+  
+  Per seguire un percorso (ovvero una linea nera su sfondo bianco), mBot utilizza due sensori a infrarossi a faccia in giù. Quando la luce infrarossa del trasmettitore raggiunge lo sfondo bianco, viene riflessa e il sensore è in grado di rilevarla. Se invece colpisce il filo nero, viene assorbito e il sensore non rileva nulla.
+   
+   Ci sono due sensori e quattro possibili combinazioni, che corrispondono ai quattro codici (da 1 a 4) restituiti dal sensore di traccia linea.
    
     
 
