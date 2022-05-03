@@ -32,7 +32,8 @@ mCore è una scheda di controllo principale facile da usare appositamente proget
   <span style="color:purple">  ULTARSUONI!! </span>
   <b>
 
-Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza
+Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza. Tramite un estensione del programma è possibile aggiungere una variabile a distanza che è in grado di aggiornare in tempo reale e il valore della misure dei suoi rilevamenti fatti in precedenza
+   
 ![image](https://user-images.githubusercontent.com/102225228/160808366-ecb01783-d8d5-47be-a2fe-6cd9e0cb5071.png)
 
 
@@ -65,15 +66,14 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
   <span style="color:blue">  Bluetooth </span>
   <b>
    
-   mBot normalmente bisognerebbe tenerlo attaccato al computer con un cavo usb. Ma con una schedina bluetooth gia presente nella kit di costruzione puoi divertirti a usarlo wireless, anche con il telefono. 
-
+  Possiamo collegare il nostro smartphone/tablet o computer alla modalità wireless per controllare il nostro robottino normalmente bisognerebbe tenerlo attaccato al computer con un cavo usb. Ma con una schedina bluetooth gia presente nella kit di costruzione puoi divertirti a usarlo come credi.
 
     
     
 ## Programmazione
   [![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
    
-   Mbot Può essere programmato con mBlock, quindi come nell'immagine con i blocchi. Ciò lo rende molto intuitivo per tutti. Imfatti con solo dieci blocchi si riesce a muovere l'Mbot in tutte le direzioni e anche fermarlo. Nell'immagine soprastante c'è solo la programmazione per muoverlo ma si possono progettare i  led in modi strani oppure i suoni. Aggiungendo delle estensioni esterne mBot può fare di tutto.
+   Mbot Può essere programmato con mBlock, quindi come nell'immagine con i blocchi. Ciò lo rende molto intuitivo per tutti. Infatti con solo dieci blocchi si riesce a muovere l'Mbot in tutte le direzioni e anche fermarlo. Nell'immagine soprastante c'è solo la programmazione per muoverlo ma si possono progettare i  led in modi strani oppure i suoni. Aggiungendo delle estensioni esterne mBot può fare di tutto.
    
    Come nel video sottostante dove abbiamo programmato diversi mBot come se fossero delle suadre di calcio e li abbiamo fatti gareggiare. 
   
