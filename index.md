@@ -55,7 +55,9 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
 ## Programmazione
   [![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
    
-   Mbot Può essere programmato con mBlock, quindi come nell'immagine con i blocchi. Ciò lo rende molto intuitivo per tutti. Imfatti con solo dieci blocchi si riesce a muovere l'Mbot in tutte le direzioni e anche fermarlo! 
+   Mbot Può essere programmato con mBlock, quindi come nell'immagine con i blocchi. Ciò lo rende molto intuitivo per tutti. Imfatti con solo dieci blocchi si riesce a muovere l'Mbot in tutte le direzioni e anche fermarlo. Nell'immagine soprastante c'è solo la programmazione per muoverlo ma si possono progettare i  led in modi strani oppure i suoni. Aggiungendo delle estensioni esterne mBot può fare di tutto.
+   
+   Come nel video sottostante dove abbiamo programmato diversi mBot come se fossero delle suadre di calcio e li abbiamo fatti gareggiare. 
   
     
     
@@ -71,6 +73,8 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
     
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EKV9ozuJ7LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+   Qui c'è la programmazione per farlo muovere e avere i led per la squadra
     
  
 [![programmazione 2](https://user-images.githubusercontent.com/102225018/165496878-377a5e34-8f1b-4bbd-b249-4f5f2857cfa1.png)](https://user-images.githubusercontent.com/102225018/165496878-377a5e34-8f1b-4bbd-b249-4f5f2857cfa1.png)
