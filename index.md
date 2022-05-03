@@ -45,6 +45,8 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
   Per seguire un percorso (ovvero una linea nera su sfondo bianco), mBot utilizza due sensori a infrarossi a faccia in giù. Quando la luce infrarossa del trasmettitore raggiunge lo sfondo bianco, viene riflessa e il sensore è in grado di rilevarla. Se invece colpisce il filo nero, viene assorbito e il sensore non rileva nulla.
    
    Ci sono due sensori e quattro possibili combinazioni, che corrispondono ai quattro codici (da 1 a 4) restituiti dal sensore di traccia linea.
+  
+   ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
    
    
  
@@ -66,11 +68,7 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    mBot normalmente bisognerebbe tenerlo attaccato al computer con un cavo usb. Ma con una schedina bluetooth gia presente nella kit di costruzione puoi divertirti a usarlo wireless, anche con il telefono. 
 
 
-![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
-
     
-     
-  
     
 ## Programmazione
   [![Immagine programmazione base](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)](https://user-images.githubusercontent.com/102225018/164216622-a88e0153-ffc9-4e9b-a7eb-01bcdf2ccfc6.png)
