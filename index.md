@@ -39,7 +39,7 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    
    
    <b>
-  <span style="color:red">  Sensore di linea </span>
+  <span style="color:green">  Sensore di linea </span>
   <b>
   
   Per seguire un percorso (ovvero una linea nera su sfondo bianco), mBot utilizza due sensori a infrarossi a faccia in giù. Quando la luce infrarossa del trasmettitore raggiunge lo sfondo bianco, viene riflessa e il sensore è in grado di rilevarla. Se invece colpisce il filo nero, viene assorbito e il sensore non rileva nulla.
@@ -58,6 +58,12 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    L'mBot è perfetto per far giocare i più piccoli, e anche per sviluppare la mente. Però bisogna che il bambino sia almeno 11+ perché mBot può contenere piccoli che possono essere ingeriti, infatti sulla scatole c'è il simbolo "vietato dai 0/3".  
    
 ![Vietato 031](https://user-images.githubusercontent.com/102225018/166497069-f26f0157-0c54-42a5-8b2e-3aa948f3f757.jpg)
+   
+  <b>
+  <span style="color:blue">  Bluetooth </span>
+  <b>
+   
+   mBot normalmente bisognerebbe tenerlo attaccato al computer con un cavo usb. Ma con una schedina bluetooth gia presente nella kit di costruzione puoi divertirti a usarlo wireless, anche con il telefono. 
 
 
 ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
