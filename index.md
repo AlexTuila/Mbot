@@ -85,7 +85,7 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    Grazie per il vostro tempo e che abbiate scelto la nostra pagina per informarvi su mBot.
    
    
-                                                                                                           By Bezarau Emmanuele, Tuila Alexandru e Ben zerrou Nabil.
+ By Bezarau Emmanuele, Tuila Alexandru e Ben zerrou Nabil.                                                                                                          
 
     
 
