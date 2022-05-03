@@ -80,7 +80,7 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
 [![programmazione 2](https://user-images.githubusercontent.com/102225018/165496878-377a5e34-8f1b-4bbd-b249-4f5f2857cfa1.png)](https://user-images.githubusercontent.com/102225018/165496878-377a5e34-8f1b-4bbd-b249-4f5f2857cfa1.png)
    
    Siamo arrivati alla fine di questa spiegazione, anche se no super accurata, di cosa e cosa tu ci possa fare con un mBot.
-   Spero vi sia piaciuta la nostra pagina e se foste interessati ad acquistare un mBot, di qualsiasi tipo, [Ciao](https://www.makeblock.com/) c'è il sito ufficiale dove comprarli, ma li trovate anche su Amazon.
+   Spero vi sia piaciuta la nostra pagina e se foste interessati ad acquistare un mBot, di qualsiasi tipo, [Qui](https://www.makeblock.com/) c'è il sito ufficiale dove comprarli, ma li trovate anche su Amazon.
    
    Grazie per il vostro tempo e che abbiate scelto la nostra pagina per informarvi su mBot.
    
