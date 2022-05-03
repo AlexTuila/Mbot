@@ -35,7 +35,10 @@ mCore è una scheda di controllo principale facile da usare appositamente proget
 Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare o trovare oggetti fino a 3/4 metri di distanza
 ![image](https://user-images.githubusercontent.com/102225228/160808366-ecb01783-d8d5-47be-a2fe-6cd9e0cb5071.png)
 
-<b>
+
+   
+   
+   <b>
   <span style="color:red">  Sensore di linea </span>
   <b>
   
@@ -44,7 +47,11 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    Ci sono due sensori e quattro possibili combinazioni, che corrispondono ai quattro codici (da 1 a 4) restituiti dal sensore di traccia linea.
    
    
-  <b>
+ 
+   
+   
+   
+   <b>
   <span style="color:red">  Pericolo soffocamento </span>
   <b>
    
