@@ -43,7 +43,14 @@ Sono in grado di rilevare tramite l'interfaccia Arduino che permette di rilevare
    
    Ci sono due sensori e quattro possibili combinazioni, che corrispondono ai quattro codici (da 1 a 4) restituiti dal sensore di traccia linea.
    
-    
+   
+  <b>
+  <span style="color:red">  Pericolo soffocamento </span>
+  <b>
+   
+   L'mBot è perfetto per far giocare i più piccoli, e anche per sviluppare la mente. Però bisogna che il bambino sia almeno 11+ perché mBot può contenere piccoli che possono essere ingeriti, infatti sulla scatole c'è il simbolo "vietato dai 0/3".  
+   
+![Vietato 031](https://user-images.githubusercontent.com/102225018/166497069-f26f0157-0c54-42a5-8b2e-3aa948f3f757.jpg)
 
 
 ![image](https://user-images.githubusercontent.com/102225018/161950790-8626c2ec-5b3f-4769-90d8-0dad367b804f.png)
